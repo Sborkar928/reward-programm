@@ -1,0 +1,94 @@
+{
+    "transactions": [
+        {
+            "bill": 12,
+            "date": "Wed, 7 Dec 2022 06:06:50 GMT",
+            "customer": "rob"
+        },
+        {
+            "bill": 77,
+            "date": "Wed, 7 Dec 2022 06:06:50 GMT",
+            "customer": "rob"
+        },
+        {
+            "bill": 122,
+            "date": "Wed, 7 Dec 2022 06:06:50 GMT",
+            "customer": "rob"
+        },
+        {
+            "bill": 11,
+            "date": "Wed, 5 Nov 2022 06:06:50 GMT",
+            "customer": "rob"
+        },
+        {
+            "bill": 72,
+            "date": "Wed, 5 Nov 2022 06:06:50 GMT",
+            "customer": "rob"
+        },
+        {
+            "bill": 128,
+            "date": "Wed, 5 Nov 2022 06:06:50 GMT",
+            "customer": "rob"
+        },
+        {
+            "bill": 13,
+            "date": "Wed, 4 Oct 2022 06:06:50 GMT",
+            "customer": "rob"
+        },
+        {
+            "bill": 72,
+            "date": "Wed, 4 Oct 2022 06:06:50 GMT",
+            "customer": "rob"
+        },
+        {
+            "bill": 126,
+            "date": "Wed, 4 Oct 2022 06:06:50 GMT",
+            "customer": "rob"
+        },
+        {
+            "bill": 13,
+            "date": "Wed, 7 Dec 2022 06:06:50 GMT",
+            "customer": "andrew"
+        },
+        {
+            "bill": 78,
+            "date": "Wed, 7 Dec 2022 06:06:50 GMT",
+            "customer": "andrew"
+        },
+        {
+            "bill": 125,
+            "date": "Wed, 7 Dec 2022 06:06:50 GMT",
+            "customer": "andrew"
+        },
+        {
+            "bill": 14,
+            "date": "Wed, 5 Nov 2022 06:06:50 GMT",
+            "customer": "andrew"
+        },
+        {
+            "bill": 74,
+            "date": "Wed, 5 Nov 2022 06:06:50 GMT",
+            "customer": "andrew"
+        },
+        {
+            "bill": 124,
+            "date": "Wed, 5 Nov 2022 06:06:50 GMT",
+            "customer": "andrew"
+        },
+        {
+            "bill": 10,
+            "date": "Wed, 4 Oct 2022 06:06:50 GMT",
+            "customer": "andrew"
+        },
+        {
+            "bill": 70,
+            "date": "Wed, 4 Oct 2022 06:06:50 GMT",
+            "customer": "andrew"
+        },
+        {
+            "bill": 120,
+            "date": "Wed, 4 Oct 2022 06:06:50 GMT",
+            "customer": "andrew"
+        }
+    ]
+}
